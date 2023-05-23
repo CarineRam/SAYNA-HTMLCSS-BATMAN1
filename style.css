@@ -1,0 +1,193 @@
+
+.boutonhome{
+    color: white;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 20px;
+    margin-left: 85%;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+.intro{
+    margin-left: 300px ;
+    color: white;
+    font-size: 18px;
+    
+}
+.boutons{
+    text-align: center;
+    padding : 30px 50px;
+    margin-left: 250px;
+}
+/* Couleur bouton Le Heros et les adversaires */
+.bouton{
+    font-size: 20px;
+    color: white;
+    cursor: center;
+    font-family: 'Rajdhani', sans-serif;
+    background-image: linear-gradient(to right,#EDDEBF,#890008,#890008);
+    border: none;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 40px;
+
+}
+.fleche{
+    text-align: center;
+    margin-top: 17%;
+}
+.logohome{
+    margin-top: 5%;
+}
+header{
+    padding-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+body{ 
+    background-image: url(Illustrations/Bathome1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    font-family: 'Space Grotesk', sans-serif;
+    color: white;
+    background-color: black;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.aside{
+       margin-left: 300px;
+}
+.icon{
+    padding-top: 20%;
+    padding-bottom: 20%;
+    padding-left: 7%;
+}
+h1{
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 36px;
+    
+}
+.image{
+    margin: 20px;
+}
+.noms{
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 22px;
+    margin-bottom: 50px;
+
+}
+batmanAuCinema{
+    padding: 50px;
+}
+.texte_1{
+    text-align: center;
+}
+nemesis{
+    padding: 50px;
+}
+h2{
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 12px;
+}
+.nomAffiche{
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 20px;
+}
+.texte_2{
+    font-size: 12px;
+}
+/*multimedia*/
+.affiche{
+    background-image: linear-gradient(to right,#f8f184,#19587d,#19587d);
+    color: #C4C4C4;
+    border-radius: 0px 15px 15px 0px;
+}
+.version1{
+    font-size: 16px;
+}
+.version2{
+    font-size: 16px;
+    color: #f8f184;
+}
+.fleche1{
+    padding-left: 70px; 
+    margin-top: 50px;
+    
+}
+.titreContact{
+    text-align: center;
+}
+.contact{
+   
+    background-image: linear-gradient(to right,#f8f184,#19587d,#19587d);
+    text-align: center;
+    padding: 20px;
+}
+.btn{
+    font-family: 'Rajdhani', sans-serif;
+    background: none;
+    color: white;
+    border-image: linear-gradient(to right, #eddebf,#19587d);
+    border-image-slice: 1;
+    font-size: 20px;
+    padding: 0.5% 5%;
+    margin: 20px;
+}
+.citation{
+    text-align: center;
+    padding: 250px;
+}
+.guillemet2{
+    font-size: 18px;
+}
+.guillemet1{
+    font-size: 22px;
+}
+.ouvert{
+    padding: 50px;
+}
+.ouvertTexte{
+    padding-top: 100px;
+}
+.ferme{
+    padding-top: 100px;
+    padding-left: 50px;
+}
+.fermeTexte{
+    padding-top: 50px;
+    padding-left: 300px;
+}
+footer{
+    text-align: center;
+}
+.texteWB{
+    font-size: 12px;
+}
+.logos{
+    padding: 20px;
+}
+.logoSayna{
+    padding-right: 20px;
+}
+.iconX{
+    padding-right: 20px;
+    padding-top: 15px;
+}
+.logoDC{
+    padding-right: 20px;
+}
+.logoFb{
+    padding-right: 20px;
+    padding-top: 10px;
+}
+.logoInstagram{
+    padding-right: 20px;
+    padding-top: 10px;
+}
+.logoTwitter{
+    padding-top: 10px;
+}
